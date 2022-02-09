@@ -1,0 +1,39 @@
+body{
+	font-family:  Georgia;
+	background-color: #F8F8FF; 
+	background-image:  url("https://www.detroitlabs.com/wp-content/uploads/2018/02/alfons-morales-YLSwjSy7stw-unsplash.jpg");
+	background-position: center-bottom;
+	background-repeat: no-repeat;
+}
+
+.head{
+	position: absolute;
+	color: white;
+	left: 40%;
+	top: 10%;
+}
+
+input[type="checkbox"]{
+    width:20px;
+    height:20px;
+    position: relative;
+    top: 210px;
+    left: 86%;
+}
+
+table{
+	font-size: large;
+	text-align: center;
+	width: 1000px;
+	margin: auto;
+	border-style: solid;
+	color: #000000;
+	line-height:40px;
+	border: 3px #cccccc solid;
+	background-color: #FFF8DC;
+	position: absolute;
+	top: 20%;
+	left: 50%;
+	margin-left: -500px;	
+}
+
